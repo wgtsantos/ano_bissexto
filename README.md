@@ -1,4 +1,3 @@
-# ano_bissexto
 # Como Calcular o Ano Bissexto?
 Para saber se um ano é bissexto existe uma regra básica: os anos bissextos são aqueles múltiplos de 4, ou seja, a cada quatro anos temos um ano bissexto.
 
